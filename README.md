@@ -8,6 +8,9 @@ A professional-grade Currency Converter web application that converts currencies
 
 https://vercel.com/rahul-kumars-projects-706e3199/currency-converter
 
+<img width="1566" height="593" alt="image" src="https://github.com/user-attachments/assets/21e43987-1ca1-4336-95fc-7c4491cced7b" />
+
+
 
      ✨ Features
 
@@ -78,7 +81,11 @@ Converted value is calculated and displayed instantly
 
 
      📸 Screenshots
-Add screenshots for better professionalism
+<img width="502" height="548" alt="Screenshot 2026-01-15 213145" src="https://github.com/user-attachments/assets/7f58e43b-c4e1-48e6-a511-672488d50f62" />
+
+<img width="775" height="572" alt="Screenshot 2026-01-15 213049" src="https://github.com/user-attachments/assets/5277b117-3ffd-4773-83aa-096d211cf349" />
+
+
 
 
      🚀 Future Enhancements
