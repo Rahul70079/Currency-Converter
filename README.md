@@ -3,8 +3,10 @@ A professional-grade Currency Converter web application that converts currencies
 
 
     🔗 Live Demo
-Add your deployed link here (GitHub Pages / Netlify / Vercel)
-Example: https://your-username.github.io/currency-converter/
+    
+Add your deployed link ( Vercel )
+
+https://vercel.com/rahul-kumars-projects-706e3199/currency-converter
 
 
      ✨ Features
