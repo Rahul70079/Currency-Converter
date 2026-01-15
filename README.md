@@ -1,3 +1,4 @@
+
     💱 Currency Converter
 A professional-grade Currency Converter web application that converts currencies using real-time exchange rates. Built with clean architecture, readable code, and a responsive UI—ideal for production-ready demos, portfolios, and interviews.
 
@@ -37,27 +38,8 @@ API: Exchange Rate API (exchangerate-api / frankfurter / openexchangerates)
 
 Version Control: Git & GitHub
 
-Deployment (Optional): GitHub Pages / Netlify 
+Deployment (Optional): vercel
 
-    
-       📁 Project Structure
-       currency-converter/
-│
-├── index.html # Application entry point
-├── style.css # Global & responsive styles
-├── script.js # Core logic & API integration
-├── README.md # Project documentation
-└── assets/ # Icons / images (optional)
-
-
-      ⚙️ Configuration
-API Key Setup
-
-Sign up on your preferred exchange rate provider
-
-Generate an API key
-
-Add the key in script.js
 
       ▶️ Getting Started
     Clone the Repository
