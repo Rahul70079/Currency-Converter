@@ -64,9 +64,7 @@ Converted value is calculated and displayed instantly
 
      📸 Screenshots
 <img width="502" height="548" alt="Screenshot 2026-01-15 213145" src="https://github.com/user-attachments/assets/7f58e43b-c4e1-48e6-a511-672488d50f62" />
-
-<img width="775" height="572" alt="Screenshot 2026-01-15 213049" src="https://github.com/user-attachments/assets/5277b117-3ffd-4773-83aa-096d211cf349" />
-
+<img width="501" height="527" alt="Screenshot 2026-01-15 213754" src="https://github.com/user-attachments/assets/ba1589ec-d8a9-492f-88c5-5772140ce9d4" />
 
 
 
