@@ -107,9 +107,8 @@ Cross-browser compatibility checked
 
 This project is licensed under the MIT License.
 
-    👨‍💻 Author
-
-    Rahul Kumar
+    👨‍💻 Author : Rahul Kumar
+    
      🔗 GitHub:
 https://github.com/Rahul70079
 
