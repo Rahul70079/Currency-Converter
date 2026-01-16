@@ -109,9 +109,12 @@ This project is licensed under the MIT License.
 
     👨‍💻 Author
 
-Rahul Kumar
-🔗 GitHub: https://github.com/Rahul70079
-💼 LinkedIn: https://www.linkedin.com/in/rahul-kumar7079/
+    Rahul Kumar
+     🔗 GitHub:
+https://github.com/Rahul70079
+
+     💼 LinkedIn:
+https://www.linkedin.com/in/rahul-kumar7079/
 
 
 ⭐ If you find this project useful, please star the repository and share feedback!
