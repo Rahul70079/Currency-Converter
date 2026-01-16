@@ -27,7 +27,7 @@ https://vercel.com/rahul-kumars-projects-706e3199/currency-converter
 
 🧩 Modular and readable JavaScript
 
-❌ Graceful API error handling
+
 
 
     🛠️ Tech Stack
@@ -112,4 +112,7 @@ This project is licensed under the MIT License.
 Rahul Kumar
 🔗 GitHub: https://github.com/Rahul70079
 💼 LinkedIn: https://www.linkedin.com/in/rahul-kumar7079/
+
+
+⭐ If you find this project useful, please star the repository and share feedback!
 
